@@ -1,0 +1,10 @@
+CProgramming.pdf,https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_e9a0f814efa149b58c30db425fc1b822.pdf
+DiscreteMathematics.pdf,https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_93798fc7343d44909a8e5c4f2ecf2357.pdf
+itandsociety.pdf,https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_7101712b85fa4486a56d80d9241961a4.pdf
+ObjectOrientedProgrammingI.pdf,https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ca34df6d699146c9af64c5e591dd1043.pdf
+ComputerOrganization.pdf,https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_35ff52e3a4ae43858b8a439c4877dfa7.pdf
+ObjectOrientedProgrammingII.pdf,https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ca34df6d699146c9af64c5e591dd1043.pdf
+AlgorithmAnalysis.pdf,https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_aea6bd98f06e42bea54563b4b9b83c97.pdf
+ComputerNetwork.pdf,https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ed6c3b1719be42a697b16d2141fe4752.pdf
+TheoryOfComputation.pdf,https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_f40f0bc6dedd41e58c213e031abfa56c.pdf
+%%%,%%%
