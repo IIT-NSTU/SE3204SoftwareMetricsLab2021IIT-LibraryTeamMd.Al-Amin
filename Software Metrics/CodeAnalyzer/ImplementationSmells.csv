@@ -1,0 +1,960 @@
+Project Name,Package Name,Type Name,Method Name,Implementation Smell,Cause of the Smell,Method start line no
+IIT-Library,frames,book_pdf_frame,setFrame,Magic Number,The method contains a magic number: 500,19
+IIT-Library,frames,book_pdf_frame,setFrame,Magic Number,The method contains a magic number: 600,19
+IIT-Library,frames,main_frame,setFrame,Magic Number,The method contains a magic number: 900,19
+IIT-Library,frames,main_frame,setFrame,Magic Number,The method contains a magic number: 600,19
+IIT-Library,sub_class,Download,go,Magic Number,The method contains a magic number: 300,41
+IIT-Library,sub_class,Download,go,Magic Number,The method contains a magic number: 50,41
+IIT-Library,sub_class,Download,go,Magic Number,The method contains a magic number: 300,41
+IIT-Library,sub_class,Download,go,Magic Number,The method contains a magic number: 50,41
+IIT-Library,sub_class,Download,go,Magic Number,The method contains a magic number: 500,41
+IIT-Library,sub_class,Download,go,Magic Number,The method contains a magic number: 400,41
+IIT-Library,sub_class,Download,downloadFile,Magic Number,The method contains a magic number: 1024,93
+IIT-Library,sub_class,Download,downloadFile,Magic Number,The method contains a magic number: 1024,93
+IIT-Library,sub_class,Download,downloadFile,Magic Number,The method contains a magic number: 100,93
+IIT-Library,sub_class,Download_Without_saving,go,Magic Number,The method contains a magic number: 300,40
+IIT-Library,sub_class,Download_Without_saving,go,Magic Number,The method contains a magic number: 50,40
+IIT-Library,sub_class,Download_Without_saving,go,Magic Number,The method contains a magic number: 300,40
+IIT-Library,sub_class,Download_Without_saving,go,Magic Number,The method contains a magic number: 50,40
+IIT-Library,sub_class,Download_Without_saving,go,Magic Number,The method contains a magic number: 500,40
+IIT-Library,sub_class,Download_Without_saving,go,Magic Number,The method contains a magic number: 400,40
+IIT-Library,sub_class,Download_Without_saving,downloadFile,Magic Number,The method contains a magic number: 1024,93
+IIT-Library,sub_class,Download_Without_saving,downloadFile,Magic Number,The method contains a magic number: 1024,93
+IIT-Library,sub_class,Download_Without_saving,downloadFile,Magic Number,The method contains a magic number: 100,93
+IIT-Library,sub_class,File_Basic,saveRecord,Empty catch clause,The method has an empty catch block.,25
+IIT-Library,sub_class,File_Basic,ReadRecord,Empty catch clause,The method has an empty catch block.,44
+IIT-Library,sub_class,File_Basic,SearchRecord,Empty catch clause,The method has an empty catch block.,63
+IIT-Library,sub_class,Home_frame,setMainPanel,Magic Number,The method contains a magic number: 900,51
+IIT-Library,sub_class,Home_frame,setMainPanel,Magic Number,The method contains a magic number: 100,51
+IIT-Library,sub_class,Home_frame,setMainPanel,Magic Number,The method contains a magic number: 20,51
+IIT-Library,sub_class,Home_frame,setMainPanel,Magic Number,The method contains a magic number: 100,51
+IIT-Library,sub_class,Home_frame,setMainPanel,Magic Number,The method contains a magic number: 300,51
+IIT-Library,sub_class,Home_frame,setMainPanel,Magic Number,The method contains a magic number: 500,51
+IIT-Library,sub_class,Home_frame,setMainPanel,Magic Number,The method contains a magic number: 10,51
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 8,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 200,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 45,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 740,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 20,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 125,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 50,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 350,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 130,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 205,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 180,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 660,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 130,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 205,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 180,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 500,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 350,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 205,73
+IIT-Library,sub_class,Home_frame,setbutton,Magic Number,The method contains a magic number: 180,73
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 40,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 50,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 15,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 400,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 70,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 400,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 320,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 205,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 20,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 680,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 320,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 205,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 20,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 550,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 540,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 205,103
+IIT-Library,sub_class,Home_frame,setlabel,Magic Number,The method contains a magic number: 20,103
+IIT-Library,sub_class,Home_frame,setTextarea,Magic Number,The method contains a magic number: 350,123
+IIT-Library,sub_class,Home_frame,setTextarea,Magic Number,The method contains a magic number: 20,123
+IIT-Library,sub_class,Home_frame,setTextarea,Magic Number,The method contains a magic number: 350,123
+IIT-Library,sub_class,Home_frame,setTextarea,Magic Number,The method contains a magic number: 50,123
+IIT-Library,sub_class,Home_frame,setTextarea,Magic Number,The method contains a magic number: 3,123
+IIT-Library,sub_class,Home_frame,actionlistener,Long Statement,The length of the statement "Download_Without_saving.go("Syllabus.pdf"`"https://drive.google.com/uc?export=download&id=12QNwepr_oyOQUPPQ-Lvs8iRX_pNl-x4n");" is 126.,137
+IIT-Library,sub_class,Home_frame,actionlistener,Magic Number,The method contains a magic number: 8,137
+IIT-Library,sub_class,Home_frame,actionlistener,Magic Number,The method contains a magic number: 3,137
+IIT-Library,sub_class,Home_frame,actionlistener,Magic Number,The method contains a magic number: 7,137
+IIT-Library,sub_class,Home_frame,actionlistener,Magic Number,The method contains a magic number: 100,137
+IIT-Library,sub_class,Home_frame,actionlistener,Magic Number,The method contains a magic number: 100,137
+IIT-Library,sub_class,Home_frame,actionlistener,Magic Number,The method contains a magic number: 600,137
+IIT-Library,sub_class,Home_frame,actionlistener,Magic Number,The method contains a magic number: 500,137
+IIT-Library,sub_class,Home_frame,actionlistener,Magic Number,The method contains a magic number: 825,137
+IIT-Library,sub_class,Home_frame,actionlistener,Magic Number,The method contains a magic number: 700,137
+IIT-Library,sub_class,Home_frame,actionPerformed,Magic Number,The method contains a magic number: 3,142
+IIT-Library,sub_class,Home_frame,actionPerformed,Magic Number,The method contains a magic number: 7,142
+IIT-Library,sub_class,Home_frame,actionPerformed,Long Statement,The length of the statement "Download_Without_saving.go("Syllabus.pdf"`"https://drive.google.com/uc?export=download&id=12QNwepr_oyOQUPPQ-Lvs8iRX_pNl-x4n");" is 126.,160
+IIT-Library,sub_class,Home_frame,run,Long Statement,The length of the statement "Download_Without_saving.go("Syllabus.pdf"`"https://drive.google.com/uc?export=download&id=12QNwepr_oyOQUPPQ-Lvs8iRX_pNl-x4n");" is 126.,164
+IIT-Library,sub_class,Home_frame,actionPerformed,Magic Number,The method contains a magic number: 100,191
+IIT-Library,sub_class,Home_frame,actionPerformed,Magic Number,The method contains a magic number: 100,191
+IIT-Library,sub_class,Home_frame,actionPerformed,Magic Number,The method contains a magic number: 600,191
+IIT-Library,sub_class,Home_frame,actionPerformed,Magic Number,The method contains a magic number: 500,191
+IIT-Library,sub_class,Home_frame,actionPerformed,Magic Number,The method contains a magic number: 825,211
+IIT-Library,sub_class,Home_frame,actionPerformed,Magic Number,The method contains a magic number: 700,211
+IIT-Library,sub_class,Offlinepdf,initcomponent,Magic Number,The method contains a magic number: 20,33
+IIT-Library,sub_class,Offlinepdf,initcomponent,Magic Number,The method contains a magic number: 450,33
+IIT-Library,sub_class,Offlinepdf,initcomponent,Magic Number,The method contains a magic number: 50,33
+IIT-Library,sub_class,Offlinepdf,initcomponent,Magic Number,The method contains a magic number: 450,33
+IIT-Library,sub_class,Offlinepdf,initcomponent,Magic Number,The method contains a magic number: 30,33
+IIT-Library,sub_class,Offlinepdf,initcomponent,Magic Number,The method contains a magic number: 600,33
+IIT-Library,sub_class,Offlinepdf,initcomponent,Magic Number,The method contains a magic number: 100,33
+IIT-Library,sub_class,Offlinepdf,initcomponent,Magic Number,The method contains a magic number: 575,33
+IIT-Library,sub_class,Offlinepdf,initcomponent,Magic Number,The method contains a magic number: 440,33
+IIT-Library,sub_class,Offlinepdf,ReadRecord,Empty catch clause,The method has an empty catch block.,86
+IIT-Library,sub_class,PdfViewer,showpdf,Complex Conditional,The conditional expression pagenumber >= 0 && pagenumber < totalpage && viewtypecounter == 1 is complex.,53
+IIT-Library,sub_class,PdfViewer,showpdf,Complex Conditional,The conditional expression pagenumber >= 0 && pagenumber < totalpage - 2 && viewtypecounter == 2 is complex.,53
+IIT-Library,sub_class,PdfViewer,showpdf,Complex Conditional,The conditional expression pagenumber > 0 && pagenumber < totalpage && viewtypecounter == 1 is complex.,53
+IIT-Library,sub_class,PdfViewer,showpdf,Complex Conditional,The conditional expression pagenumber > 2 && pagenumber2 < totalpage - 1 && viewtypecounter == 2 is complex.,53
+IIT-Library,sub_class,PdfViewer,showpdf,Complex Method,Cyclomatic complexity of the method is 9,53
+IIT-Library,sub_class,PdfViewer,showpdf,Long Method,The method has 143 lines of code.,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 150,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 25,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 25,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 150,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 25,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 150,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 150,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 300,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 150,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 450,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 150,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 600,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 150,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 760,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 100,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 860,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 10,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 80,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 30,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 960,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 100,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 1060,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 100,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 2,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 2,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 2,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 2,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 2,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 2,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 2,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 2,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 2,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 10,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 20,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 100,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 10,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 50,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 20,53
+IIT-Library,sub_class,PdfViewer,showpdf,Magic Number,The method contains a magic number: 100,53
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 2,114
+IIT-Library,sub_class,PdfViewer,actionPerformed,Complex Conditional,The conditional expression pagenumber >= 0 && pagenumber < totalpage && viewtypecounter == 1 is complex.,130
+IIT-Library,sub_class,PdfViewer,actionPerformed,Complex Conditional,The conditional expression pagenumber >= 0 && pagenumber < totalpage - 2 && viewtypecounter == 2 is complex.,130
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 50,130
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 2,130
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 2,130
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 2,130
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 50,130
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 2,130
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 50,130
+IIT-Library,sub_class,PdfViewer,actionPerformed,Complex Conditional,The conditional expression pagenumber > 0 && pagenumber < totalpage && viewtypecounter == 1 is complex.,152
+IIT-Library,sub_class,PdfViewer,actionPerformed,Complex Conditional,The conditional expression pagenumber > 2 && pagenumber2 < totalpage - 1 && viewtypecounter == 2 is complex.,152
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 50,152
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 2,152
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 2,152
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 2,152
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 50,152
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 2,152
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 50,152
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 10,174
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 50,174
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 50,174
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 20,174
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 100,174
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 10,192
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 50,192
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 50,192
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 20,192
+IIT-Library,sub_class,PdfViewer,actionPerformed,Magic Number,The method contains a magic number: 100,192
+IIT-Library,sub_class,PdfViewer,button,Magic Number,The method contains a magic number: 2,210
+IIT-Library,sub_class,PdfViewer,one_page_view,Magic Number,The method contains a magic number: 50,223
+IIT-Library,sub_class,PdfViewer,one_page_view,Magic Number,The method contains a magic number: 20,223
+IIT-Library,sub_class,PdfViewer,one_page_view,Magic Number,The method contains a magic number: 100,223
+IIT-Library,sub_class,PdfViewer,one_page_view,Magic Number,The method contains a magic number: 20,223
+IIT-Library,sub_class,PdfViewer,one_page_view,Magic Number,The method contains a magic number: 100,223
+IIT-Library,sub_class,PdfViewer,two_page_view,Magic Number,The method contains a magic number: 50,240
+IIT-Library,sub_class,PdfViewer,two_page_view,Magic Number,The method contains a magic number: 50,240
+IIT-Library,sub_class,PdfViewer,two_page_view,Magic Number,The method contains a magic number: 2,240
+IIT-Library,sub_class,PdfViewer,two_page_view,Magic Number,The method contains a magic number: 50,240
+IIT-Library,sub_class,PdfViewer,two_page_view,Magic Number,The method contains a magic number: 2,240
+IIT-Library,sub_class,PdfViewer,two_page_view,Magic Number,The method contains a magic number: 50,240
+IIT-Library,sub_class,PdfViewer,makeFrameFullSize,Magic Number,The method contains a magic number: 300,274
+IIT-Library,sub_class,PdfViewer,makeFrameFullSize,Magic Number,The method contains a magic number: 100,274
+IIT-Library,sub_class,PdfViewer,openpdf,Magic Number,The method contains a magic number: 300,281
+IIT-Library,sub_class,PdfViewer,openpdf2,Long Parameter List,The method has 7 parameters. ,301
+IIT-Library,sub_class,PdfViewer,openpdf2,Magic Number,The method contains a magic number: 300,301
+IIT-Library,sub_class,PdfViewer,openpdf2,Magic Number,The method contains a magic number: 300,301
+IIT-Library,sub_class,PdfViewer,openpdf2,Magic Number,The method contains a magic number: 2,301
+IIT-Library,sub_class,Pdf_books,setMainPanel,Magic Number,The method contains a magic number: 20,42
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 300,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 50,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 300,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 50,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 300,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 50,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 2,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 300,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 50,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 300,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 50,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 3,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 400,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 50,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 400,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 50,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 400,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 50,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 400,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 50,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 400,51
+IIT-Library,sub_class,Pdf_books,setButton,Magic Number,The method contains a magic number: 50,51
+IIT-Library,sub_class,Pdf_books,buttonaction,Complex Method,Cyclomatic complexity of the method is 31,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Method,The method has 242 lines of code.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_e9a0f814efa149b58c30db425fc1b822.pdf");" is 128.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_e9a0f814efa149b58c30db425fc1b822.pdf");" is 127.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_93798fc7343d44909a8e5c4f2ecf2357.pdf");" is 128.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_93798fc7343d44909a8e5c4f2ecf2357.pdf");" is 127.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_7101712b85fa4486a56d80d9241961a4.pdf");" is 128.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_7101712b85fa4486a56d80d9241961a4.pdf");" is 127.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ca34df6d699146c9af64c5e591dd1043.pdf");" is 128.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ca34df6d699146c9af64c5e591dd1043.pdf");" is 127.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_35ff52e3a4ae43858b8a439c4877dfa7.pdf");" is 128.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_35ff52e3a4ae43858b8a439c4877dfa7.pdf");" is 127.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_aea6bd98f06e42bea54563b4b9b83c97.pdf");" is 128.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_aea6bd98f06e42bea54563b4b9b83c97.pdf");" is 127.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ca34df6d699146c9af64c5e591dd1043.pdf");" is 128.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ca34df6d699146c9af64c5e591dd1043.pdf");" is 127.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ed6c3b1719be42a697b16d2141fe4752.pdf");" is 128.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ed6c3b1719be42a697b16d2141fe4752.pdf");" is 127.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_f40f0bc6dedd41e58c213e031abfa56c.pdf");" is 128.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_f40f0bc6dedd41e58c213e031abfa56c.pdf");" is 127.,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Magic Number,The method contains a magic number: 2,103
+IIT-Library,sub_class,Pdf_books,buttonaction,Magic Number,The method contains a magic number: 3,103
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,113
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_e9a0f814efa149b58c30db425fc1b822.pdf");" is 128.,113
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_e9a0f814efa149b58c30db425fc1b822.pdf");" is 127.,113
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,137
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_93798fc7343d44909a8e5c4f2ecf2357.pdf");" is 128.,137
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_93798fc7343d44909a8e5c4f2ecf2357.pdf");" is 127.,137
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,159
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_7101712b85fa4486a56d80d9241961a4.pdf");" is 128.,159
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_7101712b85fa4486a56d80d9241961a4.pdf");" is 127.,159
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,181
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ca34df6d699146c9af64c5e591dd1043.pdf");" is 128.,181
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ca34df6d699146c9af64c5e591dd1043.pdf");" is 127.,181
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,203
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_35ff52e3a4ae43858b8a439c4877dfa7.pdf");" is 128.,203
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_35ff52e3a4ae43858b8a439c4877dfa7.pdf");" is 127.,203
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,225
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_aea6bd98f06e42bea54563b4b9b83c97.pdf");" is 128.,225
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_aea6bd98f06e42bea54563b4b9b83c97.pdf");" is 127.,225
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,247
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ca34df6d699146c9af64c5e591dd1043.pdf");" is 128.,247
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ca34df6d699146c9af64c5e591dd1043.pdf");" is 127.,247
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,269
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ed6c3b1719be42a697b16d2141fe4752.pdf");" is 128.,269
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ed6c3b1719be42a697b16d2141fe4752.pdf");" is 127.,269
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,293
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_f40f0bc6dedd41e58c213e031abfa56c.pdf");" is 128.,293
+IIT-Library,sub_class,Pdf_books,actionPerformed,Long Statement,The length of the statement "download(bookname`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_f40f0bc6dedd41e58c213e031abfa56c.pdf");" is 127.,293
+IIT-Library,sub_class,search_item,setMainPanel,Magic Number,The method contains a magic number: 20,49
+IIT-Library,sub_class,search_item,setLabel,Magic Number,The method contains a magic number: 300,57
+IIT-Library,sub_class,search_item,setLabel,Magic Number,The method contains a magic number: 50,57
+IIT-Library,sub_class,search_item,setButton,Magic Number,The method contains a magic number: 20,64
+IIT-Library,sub_class,search_item,setButton,Magic Number,The method contains a magic number: 20,64
+IIT-Library,sub_class,search_item,setButton,Magic Number,The method contains a magic number: 500,64
+IIT-Library,sub_class,search_item,setButton,Magic Number,The method contains a magic number: 50,64
+IIT-Library,sub_class,search_item,setButton,Magic Number,The method contains a magic number: 300,64
+IIT-Library,sub_class,search_item,setButton,Magic Number,The method contains a magic number: 50,64
+IIT-Library,sub_class,search_item,setButton,Magic Number,The method contains a magic number: 300,64
+IIT-Library,sub_class,search_item,setButton,Magic Number,The method contains a magic number: 50,64
+IIT-Library,sub_class,Semester_details,setMainPanel,Magic Number,The method contains a magic number: 500,46
+IIT-Library,sub_class,Semester_details,setMainPanel,Magic Number,The method contains a magic number: 80,46
+IIT-Library,sub_class,Semester_details,setMainPanel,Magic Number,The method contains a magic number: 500,46
+IIT-Library,sub_class,Semester_details,setMainPanel,Magic Number,The method contains a magic number: 80,46
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 20,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 90,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 190,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 120,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 250,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 90,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 190,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 120,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 20,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 270,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 190,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 120,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 250,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 270,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 190,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 120,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 513,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 500,78
+IIT-Library,sub_class,Semester_details,setButton,Magic Number,The method contains a magic number: 50,78
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 300,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 80,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 30,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 30,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 300,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 80,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 80,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 220,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 205,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 20,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 320,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 220,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 205,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 20,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 60,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 410,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 205,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 20,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 290,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 410,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 205,110
+IIT-Library,sub_class,Semester_details,setLabel,Magic Number,The method contains a magic number: 20,110
+IIT-Library,sub_class,Semester_details,actionlistener,Complex Method,Cyclomatic complexity of the method is 15,151
+IIT-Library,sub_class,Semester_details,actionlistener,Long Statement,The length of the statement "go("Semester 1 Examroutine.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_33459a3c5c97479fb4ff5f80c8b7b84e.pdf");" is 141.,151
+IIT-Library,sub_class,Semester_details,actionlistener,Long Statement,The length of the statement "go("Semester 3 Examroutine.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_fdc949002a44400885974b538851250c.pdf");" is 141.,151
+IIT-Library,sub_class,Semester_details,actionlistener,Long Statement,The length of the statement "go("Semester 5 Examroutine.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_a06728392e61437ea5204a7974484f1b.pdf");" is 141.,151
+IIT-Library,sub_class,Semester_details,actionlistener,Magic Number,The method contains a magic number: 2,151
+IIT-Library,sub_class,Semester_details,actionlistener,Magic Number,The method contains a magic number: 3,151
+IIT-Library,sub_class,Semester_details,actionlistener,Magic Number,The method contains a magic number: 4,151
+IIT-Library,sub_class,Semester_details,actionlistener,Magic Number,The method contains a magic number: 5,151
+IIT-Library,sub_class,Semester_details,actionlistener,Magic Number,The method contains a magic number: 6,151
+IIT-Library,sub_class,Semester_details,actionlistener,Magic Number,The method contains a magic number: 8,151
+IIT-Library,sub_class,Semester_details,actionlistener,Magic Number,The method contains a magic number: 2,151
+IIT-Library,sub_class,Semester_details,actionlistener,Magic Number,The method contains a magic number: 3,151
+IIT-Library,sub_class,Semester_details,actionlistener,Magic Number,The method contains a magic number: 4,151
+IIT-Library,sub_class,Semester_details,actionlistener,Magic Number,The method contains a magic number: 5,151
+IIT-Library,sub_class,Semester_details,actionlistener,Magic Number,The method contains a magic number: 6,151
+IIT-Library,sub_class,Semester_details,actionlistener,Magic Number,The method contains a magic number: 8,151
+IIT-Library,sub_class,Semester_details,actionPerformed,Complex Method,Cyclomatic complexity of the method is 8,220
+IIT-Library,sub_class,Semester_details,actionPerformed,Magic Number,The method contains a magic number: 2,220
+IIT-Library,sub_class,Semester_details,actionPerformed,Magic Number,The method contains a magic number: 3,220
+IIT-Library,sub_class,Semester_details,actionPerformed,Magic Number,The method contains a magic number: 4,220
+IIT-Library,sub_class,Semester_details,actionPerformed,Magic Number,The method contains a magic number: 5,220
+IIT-Library,sub_class,Semester_details,actionPerformed,Magic Number,The method contains a magic number: 6,220
+IIT-Library,sub_class,Semester_details,actionPerformed,Magic Number,The method contains a magic number: 8,220
+IIT-Library,sub_class,Semester_details,actionPerformed,Complex Method,Cyclomatic complexity of the method is 8,251
+IIT-Library,sub_class,Semester_details,actionPerformed,Long Statement,The length of the statement "go("Semester 1 Examroutine.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_33459a3c5c97479fb4ff5f80c8b7b84e.pdf");" is 141.,251
+IIT-Library,sub_class,Semester_details,actionPerformed,Long Statement,The length of the statement "go("Semester 3 Examroutine.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_fdc949002a44400885974b538851250c.pdf");" is 141.,251
+IIT-Library,sub_class,Semester_details,actionPerformed,Long Statement,The length of the statement "go("Semester 5 Examroutine.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_a06728392e61437ea5204a7974484f1b.pdf");" is 141.,251
+IIT-Library,sub_class,Semester_details,actionPerformed,Magic Number,The method contains a magic number: 2,251
+IIT-Library,sub_class,Semester_details,actionPerformed,Magic Number,The method contains a magic number: 3,251
+IIT-Library,sub_class,Semester_details,actionPerformed,Magic Number,The method contains a magic number: 4,251
+IIT-Library,sub_class,Semester_details,actionPerformed,Magic Number,The method contains a magic number: 5,251
+IIT-Library,sub_class,Semester_details,actionPerformed,Magic Number,The method contains a magic number: 6,251
+IIT-Library,sub_class,Semester_details,actionPerformed,Magic Number,The method contains a magic number: 8,251
+IIT-Library,sub_class,Semester_details,run,Long Statement,The length of the statement "go("Semester 1 Examroutine.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_33459a3c5c97479fb4ff5f80c8b7b84e.pdf");" is 141.,255
+IIT-Library,sub_class,Semester_details,run,Long Statement,The length of the statement "go("Semester 3 Examroutine.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_fdc949002a44400885974b538851250c.pdf");" is 141.,267
+IIT-Library,sub_class,Semester_details,run,Long Statement,The length of the statement "go("Semester 5 Examroutine.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_a06728392e61437ea5204a7974484f1b.pdf");" is 141.,279
+IIT-Library,sub_class,Slides,setMainPanel,Magic Number,The method contains a magic number: 20,39
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 300,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 50,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 300,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 50,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 2,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 300,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 50,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 300,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 50,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 3,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 400,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 50,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 400,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 50,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 300,48
+IIT-Library,sub_class,Slides,setButton,Magic Number,The method contains a magic number: 50,48
+IIT-Library,sub_class,Slides,buttonaction,Magic Number,The method contains a magic number: 2,93
+IIT-Library,sub_class,Slides,buttonaction,Magic Number,The method contains a magic number: 3,93
+IIT-Library,sub_class,Slides_details,setMainPanel,Magic Number,The method contains a magic number: 15,49
+IIT-Library,sub_class,Slides_details,setButton,Complex Method,Cyclomatic complexity of the method is 10,58
+IIT-Library,sub_class,Slides_details,setButton,Long Identifier,The length of the field co_instruction_sets_addressing is 30.,58
+IIT-Library,sub_class,Slides_details,setButton,Long Method,The method has 175 lines of code.,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 2,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 40,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 40,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 40,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 40,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 40,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 40,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 40,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 30,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 30,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 30,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 30,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 30,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 30,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 30,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 30,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 30,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 30,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 30,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 3,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 50,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 300,58
+IIT-Library,sub_class,Slides_details,setButton,Magic Number,The method contains a magic number: 30,58
+IIT-Library,sub_class,Slides_details,buttonaction,Complex Method,Cyclomatic complexity of the method is 90,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Identifier,The length of the field co_instruction_sets_addressing is 30.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Method,The method has 549 lines of code.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_1398a77215bc429c981565cbf31df8f3.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("C_introduction.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_f5ab75b553ff4229acccb3129cabf18a.pptx?dn=C_Introduction.pptx");" is 164.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_88baa8675e604a268be555ee19e0a7ef.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("C_Array.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_45d2caaebbba449797f0876837c3bc9d.pptx?dn=Arrays.pptx");" is 149.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_cc166f3f60434954b629b9ebbbbca281.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("C_Expressions.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_8687d146477346399dfd4692a54840ac.pptx?dn=Expressions.pptx");" is 160.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_7e99a5739d0244548ed26c0cce674194.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("C_Decision making and looping.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_58a39a509bcd4fc7ae8621003a668a34.pptx?dn=Decision_making_and_looping.pptx");" is 192.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_e707ba6e54af483ab66659e4e48dbeb5.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("Discrete Chapter 1.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_303eb49c2b824a2c94b6a153fd185754.pptx?dn=Dis_Chapter1.pptx");" is 166.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_a784f440aa4b4498aca834e2f1e98851.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("Discrete chapter 2.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_3c9d8b1ece79498caab4be87a2172016.pptx?dn=Dis_chapter2.pptx");" is 166.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_b0e815ca418d4ae7a26f7fa33b201cbe.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("Discrete chapter 3.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_b0e815ca418d4ae7a26f7fa33b201cbe.pdf");" is 143.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_6f0fc9d9e1054adaba57cdedb30cab63.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("Discrete chapter 8.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_0533cfd459da494e8e3a55f554082d6f.ppt?dn=Dis_chapter8_Graphs.ppt");" is 170.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_0652a9095d0c4ae0bccdfe3755806eac.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("Discrete chapter 9.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_0652a9095d0c4ae0bccdfe3755806eac.pdf");" is 143.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_2c3aeff0e681411088dcb7f609799459.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("OOP1 Introduction.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_0cc28a4b3f6c403987d3e9e7eb73a50c.pptx?dn=1.%20OOP_Introduction.pptx");" is 174.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_b1e217c326794b27bf97af9be32e4653.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("oop1 data types and expressions.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_8f6d65d2e3bd4dda906f4cbdf2743f57.ppt?dn=2.Data%20types.ppt");" is 178.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_54a60366f6574ad680e3b2e95fbb305c.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("OOP1 control statement.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_26d9dd6972704108acdc77ed809fe7dc.ppt?dn=3.%20Java_Control_Statements.ppt");" is 183.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_7462eddff2b04601b1ec59e563032d29.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("OOP1 Array.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_181b6e4994864381acc0d05f9888dfbc.pptx?dn=4.%20Jave%20array.pptx");" is 163.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_7a49416c5a494e27b1d0e55ed05a958c.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("OOP1 class.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ef83e26200624b33be53498b04a62176.pptx?dn=5.%20Jave%20Class.pptx");" is 163.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_fd3b5c59c7224760a7984fac3fe2c01f.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("OOP1 class modifire.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ceb883750bf042a3aafec76521b30b65.pptx?dn=7.%20Access%20Modifire%20%26%20Encapsulation.pptx");" is 199.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_5ce62cca0b6740c2b927e7e466cca344.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("oop1 Overloading and inheritance.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_3c6800b366984d26b1d621a4bbb47fe3.pptx?dn=8.%20Constuctor%20Overloading%20%26%20Class%20Inheritance.pptx");" is 225.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_7397da38fcdd4b72b1c325152b35efbd.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("OOP1 polymorphism and abstraction.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_6117b654fa664f53a96c0b978ae4e50f.pptx?dn=9.%20Polymorphism%20%26%20Abstraction.pptx");" is 206.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_8b5911fff0c44c77a2d0badf1e4a431f.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("OOP1 UML details.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_3d8c7536a5394bacadd26d2c4b5a4377.pptx?dn=10.UML%20details.pptx");" is 168.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_182f466c5d6749cca473ff8849952f9d.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("OOP1 Exception Handle.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_a88cc805d330492d8857bbb10a01a0f0.pptx?dn=11.%20Exception%20Handling%20(1)%5B308%5D.pptx");" is 198.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_05f47dde3777469e9f8a03135e9357f1.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("OOP1 Association.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_add2b2fbfda44b7faaa5bc6b608624d0.pptx?dn=12.%20Association.pptx");" is 169.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_c61660de8ae94ee7a50343e9c7d53800.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CO introduction.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_69f94539dff64151a97c28ca3464d70d.pptx?dn=CO_01_Introduction%20.pptx");" is 172.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_bccb9d2ce12e47569aa1ede99d2306e7.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CO introduction.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_db4428b1a3e64c3bbf50bc9b43956004.pptx?dn=CO_03_Top%20Level%20View%20of%20Computer%20Function%20and%20Interconnection.pptx");" is 226.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_73f13f2816fc4a529958473dbf5efd85.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CO Cache Memory.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_e88108f9d5bd4a4ca58db408394b925d.pptx?dn=CO_4_Cache%20memory.pptx");" is 170.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_4dc788068e344a65b99da39ea890c110.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CO internal memory.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_88f64ceddf1947c58c45b3e3c1bc519c.pptx?dn=CO_05_internal%20memory.pptx");" is 177.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_948d3ef4ad844f47bb1a0c966991087d.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CO input output.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_611e9886184e4e79bf4ac5a499791135.pptx?dn=CO_7_input%2Coutput.pptx");" is 170.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_d7997e6a86b7438d91558f0bc99c5756.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CO instruction sets.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_0e8949ba98364018a70e1d6aba5d4813.pptx?dn=CO_10_Instructions%20sets.pptx");" is 180.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_77c10c1455eb478e9f69583ee9213054.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CO instruction set addressing.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_e76b8fc59efd4024bf6b70adbc6b8c72.ppt?dn=CO_11_Instructions%20sets%20addressing.ppt");" is 201.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_b31b6b8bfee64c5db680e44a014973df.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("OOP2 introduction.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_4524375721a9490da173e50f89f3401d.pptx?dn=01.%20oop2_Intro.pptx");" is 169.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_b823ece6b42f448295aa52a25abbc932.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("OOP2 Swing.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_bc659c3c152c4c51aeaefa8330a81195.pptx?dn=02.%20Swing.pptx");" is 157.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_68164f93ac6a4f50aca5eb18d4680083.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("OOP2 Swing Event.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_f3650524ce93445a8ff27c2e7c96f1d1.pptx?dn=03.%20Swing%20Event.pptx");" is 171.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_f3590292cf7f4a8f85844bd5ced7bfa4.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("OOP2 Thread.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_59083bf2eed84dc2a48087a056e36531.ppt?dn=04.%20Thread.ppt");" is 156.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_a05e7d87cd524aa48e17fe0f1f701d23.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("OOP2 Generics.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_445c9b0465374d06962d2d09e58543c3.pptx?dn=05.%20Generics.pptx");" is 163.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_a556cd2e9ab048f39e14e27f69351567.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CN Chapter 1.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_9123ea588373444e8ceba1895784d693.ppt?dn=ch01.ppt");" is 149.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_8dbdd5ae961b4cff82ec0032827fccf9.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CN Chapter 2.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_02b3cd6be0664682ad66ac82f5c78b18.ppt?dn=ch02.ppt");" is 149.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_8cc5c31aea8f462d8f87a7d42af3a3dc.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CN Network Layer.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_6a041bf9d6294c33be14aec0c5afa51e.ppt?dn=03.Network%20Layer.ppt");" is 167.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_0548932c536e40809d49b2e1f4bed9ce.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CN IP Addressing.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_5923c0f6a4b7408c9dcaecda256ca18c.ppt?dn=04.IP%20Address.ppt");" is 164.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_0ace755028c74ca486cc7b4da3b8fc56.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CN Application Layer.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_4c2b62b73467420c86210476a80dc8a5.ppt?dn=05.Application%20Layer.ppt");" is 175.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_fe39f364608f42ef96e3e00ec76e47fa.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CN Transport Layer.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_84d3e39414224916a518db59934ed387.ppt?dn=06.Transport%20Layer.ppt");" is 171.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_1e373c10b51d4f708c94b36d4408bece.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CN Network Layer-2.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_27cc5ddf931349a9a0b12b7cc0588aa0.ppt?dn=07.Network-layer2.ppt");" is 168.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ccee2888569543e28532e233cbbc05af.pdf");" is 128.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Long Statement,The length of the statement "download("CN Routing Protocol.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_2a3a73303df14eb4bcd709255528e2be.pptx?dn=08.routingprotocol.pptx");" is 173.,237
+IIT-Library,sub_class,Slides_details,buttonaction,Magic Number,The method contains a magic number: 2,237
+IIT-Library,sub_class,Slides_details,buttonaction,Magic Number,The method contains a magic number: 3,237
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,249
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_1398a77215bc429c981565cbf31df8f3.pdf");" is 128.,249
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("C_introduction.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_f5ab75b553ff4229acccb3129cabf18a.pptx?dn=C_Introduction.pptx");" is 164.,249
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,260
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_88baa8675e604a268be555ee19e0a7ef.pdf");" is 128.,260
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("C_Array.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_45d2caaebbba449797f0876837c3bc9d.pptx?dn=Arrays.pptx");" is 149.,260
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,271
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_cc166f3f60434954b629b9ebbbbca281.pdf");" is 128.,271
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("C_Expressions.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_8687d146477346399dfd4692a54840ac.pptx?dn=Expressions.pptx");" is 160.,271
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,282
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_7e99a5739d0244548ed26c0cce674194.pdf");" is 128.,282
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("C_Decision making and looping.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_58a39a509bcd4fc7ae8621003a668a34.pptx?dn=Decision_making_and_looping.pptx");" is 192.,282
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,296
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_e707ba6e54af483ab66659e4e48dbeb5.pdf");" is 128.,296
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("Discrete Chapter 1.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_303eb49c2b824a2c94b6a153fd185754.pptx?dn=Dis_Chapter1.pptx");" is 166.,296
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,307
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_a784f440aa4b4498aca834e2f1e98851.pdf");" is 128.,307
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("Discrete chapter 2.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_3c9d8b1ece79498caab4be87a2172016.pptx?dn=Dis_chapter2.pptx");" is 166.,307
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,318
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_b0e815ca418d4ae7a26f7fa33b201cbe.pdf");" is 128.,318
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("Discrete chapter 3.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_b0e815ca418d4ae7a26f7fa33b201cbe.pdf");" is 143.,318
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,329
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_6f0fc9d9e1054adaba57cdedb30cab63.pdf");" is 128.,329
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("Discrete chapter 8.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_0533cfd459da494e8e3a55f554082d6f.ppt?dn=Dis_chapter8_Graphs.ppt");" is 170.,329
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,340
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_0652a9095d0c4ae0bccdfe3755806eac.pdf");" is 128.,340
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("Discrete chapter 9.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_0652a9095d0c4ae0bccdfe3755806eac.pdf");" is 143.,340
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,357
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_2c3aeff0e681411088dcb7f609799459.pdf");" is 128.,357
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("OOP1 Introduction.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_0cc28a4b3f6c403987d3e9e7eb73a50c.pptx?dn=1.%20OOP_Introduction.pptx");" is 174.,357
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,368
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_b1e217c326794b27bf97af9be32e4653.pdf");" is 128.,368
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("oop1 data types and expressions.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_8f6d65d2e3bd4dda906f4cbdf2743f57.ppt?dn=2.Data%20types.ppt");" is 178.,368
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,379
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_54a60366f6574ad680e3b2e95fbb305c.pdf");" is 128.,379
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("OOP1 control statement.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_26d9dd6972704108acdc77ed809fe7dc.ppt?dn=3.%20Java_Control_Statements.ppt");" is 183.,379
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,390
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_7462eddff2b04601b1ec59e563032d29.pdf");" is 128.,390
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("OOP1 Array.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_181b6e4994864381acc0d05f9888dfbc.pptx?dn=4.%20Jave%20array.pptx");" is 163.,390
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,401
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_7a49416c5a494e27b1d0e55ed05a958c.pdf");" is 128.,401
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("OOP1 class.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ef83e26200624b33be53498b04a62176.pptx?dn=5.%20Jave%20Class.pptx");" is 163.,401
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,412
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_fd3b5c59c7224760a7984fac3fe2c01f.pdf");" is 128.,412
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("OOP1 class modifire.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ceb883750bf042a3aafec76521b30b65.pptx?dn=7.%20Access%20Modifire%20%26%20Encapsulation.pptx");" is 199.,412
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,423
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_5ce62cca0b6740c2b927e7e466cca344.pdf");" is 128.,423
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("oop1 Overloading and inheritance.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_3c6800b366984d26b1d621a4bbb47fe3.pptx?dn=8.%20Constuctor%20Overloading%20%26%20Class%20Inheritance.pptx");" is 225.,423
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,434
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_7397da38fcdd4b72b1c325152b35efbd.pdf");" is 128.,434
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("OOP1 polymorphism and abstraction.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_6117b654fa664f53a96c0b978ae4e50f.pptx?dn=9.%20Polymorphism%20%26%20Abstraction.pptx");" is 206.,434
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,445
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_8b5911fff0c44c77a2d0badf1e4a431f.pdf");" is 128.,445
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("OOP1 UML details.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_3d8c7536a5394bacadd26d2c4b5a4377.pptx?dn=10.UML%20details.pptx");" is 168.,445
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,456
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_182f466c5d6749cca473ff8849952f9d.pdf");" is 128.,456
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("OOP1 Exception Handle.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_a88cc805d330492d8857bbb10a01a0f0.pptx?dn=11.%20Exception%20Handling%20(1)%5B308%5D.pptx");" is 198.,456
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,467
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_05f47dde3777469e9f8a03135e9357f1.pdf");" is 128.,467
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("OOP1 Association.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_add2b2fbfda44b7faaa5bc6b608624d0.pptx?dn=12.%20Association.pptx");" is 169.,467
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,481
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_c61660de8ae94ee7a50343e9c7d53800.pdf");" is 128.,481
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CO introduction.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_69f94539dff64151a97c28ca3464d70d.pptx?dn=CO_01_Introduction%20.pptx");" is 172.,481
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,492
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_bccb9d2ce12e47569aa1ede99d2306e7.pdf");" is 128.,492
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CO introduction.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_db4428b1a3e64c3bbf50bc9b43956004.pptx?dn=CO_03_Top%20Level%20View%20of%20Computer%20Function%20and%20Interconnection.pptx");" is 226.,492
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,504
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_73f13f2816fc4a529958473dbf5efd85.pdf");" is 128.,504
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CO Cache Memory.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_e88108f9d5bd4a4ca58db408394b925d.pptx?dn=CO_4_Cache%20memory.pptx");" is 170.,504
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,515
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_4dc788068e344a65b99da39ea890c110.pdf");" is 128.,515
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CO internal memory.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_88f64ceddf1947c58c45b3e3c1bc519c.pptx?dn=CO_05_internal%20memory.pptx");" is 177.,515
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,526
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_948d3ef4ad844f47bb1a0c966991087d.pdf");" is 128.,526
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CO input output.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_611e9886184e4e79bf4ac5a499791135.pptx?dn=CO_7_input%2Coutput.pptx");" is 170.,526
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,537
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_d7997e6a86b7438d91558f0bc99c5756.pdf");" is 128.,537
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CO instruction sets.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_0e8949ba98364018a70e1d6aba5d4813.pptx?dn=CO_10_Instructions%20sets.pptx");" is 180.,537
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,547
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_77c10c1455eb478e9f69583ee9213054.pdf");" is 128.,547
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CO instruction set addressing.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_e76b8fc59efd4024bf6b70adbc6b8c72.ppt?dn=CO_11_Instructions%20sets%20addressing.ppt");" is 201.,547
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,562
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_b31b6b8bfee64c5db680e44a014973df.pdf");" is 128.,562
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("OOP2 introduction.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_4524375721a9490da173e50f89f3401d.pptx?dn=01.%20oop2_Intro.pptx");" is 169.,562
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,572
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_b823ece6b42f448295aa52a25abbc932.pdf");" is 128.,572
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("OOP2 Swing.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_bc659c3c152c4c51aeaefa8330a81195.pptx?dn=02.%20Swing.pptx");" is 157.,572
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,582
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_68164f93ac6a4f50aca5eb18d4680083.pdf");" is 128.,582
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("OOP2 Swing Event.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_f3650524ce93445a8ff27c2e7c96f1d1.pptx?dn=03.%20Swing%20Event.pptx");" is 171.,582
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,592
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_f3590292cf7f4a8f85844bd5ced7bfa4.pdf");" is 128.,592
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("OOP2 Thread.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_59083bf2eed84dc2a48087a056e36531.ppt?dn=04.%20Thread.ppt");" is 156.,592
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,602
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_a05e7d87cd524aa48e17fe0f1f701d23.pdf");" is 128.,602
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("OOP2 Generics.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_445c9b0465374d06962d2d09e58543c3.pptx?dn=05.%20Generics.pptx");" is 163.,602
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,615
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_a556cd2e9ab048f39e14e27f69351567.pdf");" is 128.,615
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CN Chapter 1.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_9123ea588373444e8ceba1895784d693.ppt?dn=ch01.ppt");" is 149.,615
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,625
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_8dbdd5ae961b4cff82ec0032827fccf9.pdf");" is 128.,625
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CN Chapter 2.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_02b3cd6be0664682ad66ac82f5c78b18.ppt?dn=ch02.ppt");" is 149.,625
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,635
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_8cc5c31aea8f462d8f87a7d42af3a3dc.pdf");" is 128.,635
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CN Network Layer.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_6a041bf9d6294c33be14aec0c5afa51e.ppt?dn=03.Network%20Layer.ppt");" is 167.,635
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,645
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_0548932c536e40809d49b2e1f4bed9ce.pdf");" is 128.,645
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CN IP Addressing.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_5923c0f6a4b7408c9dcaecda256ca18c.ppt?dn=04.IP%20Address.ppt");" is 164.,645
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,655
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_0ace755028c74ca486cc7b4da3b8fc56.pdf");" is 128.,655
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CN Application Layer.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_4c2b62b73467420c86210476a80dc8a5.ppt?dn=05.Application%20Layer.ppt");" is 175.,655
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,665
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_fe39f364608f42ef96e3e00ec76e47fa.pdf");" is 128.,665
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CN Transport Layer.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_84d3e39414224916a518db59934ed387.ppt?dn=06.Transport%20Layer.ppt");" is 171.,665
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,675
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_1e373c10b51d4f708c94b36d4408bece.pdf");" is 128.,675
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CN Network Layer-2.ppt"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_27cc5ddf931349a9a0b12b7cc0588aa0.ppt?dn=07.Network-layer2.ppt");" is 168.,675
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "int option_result=JOptionPane.showOptionDialog(null`"what would like to do?"`""`0`JOptionPane.INFORMATION_MESSAGE`null`options`null);" is 133.,685
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "View.go("view.pdf"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_ccee2888569543e28532e233cbbc05af.pdf");" is 128.,685
+IIT-Library,sub_class,Slides_details,actionPerformed,Long Statement,The length of the statement "download("CN Routing Protocol.pptx"`"https://1ba04568-93c7-428d-bafc-b6a5efb6c80c.filesusr.com/ugd/18e846_2a3a73303df14eb4bcd709255528e2be.pptx?dn=08.routingprotocol.pptx");" is 173.,685
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 825,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 700,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 820,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 580,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 10,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 590,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 160,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 50,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 630,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 590,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 160,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 50,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 330,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 610,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 160,37
+IIT-Library,sub_class,Teacher_info,initcomponents,Magic Number,The method contains a magic number: 50,37
+IIT-Library,sub_class,Teacher_info,teacher_info,Long Method,The method has 268 lines of code.,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 900,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 580,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 10,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 20,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 400,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 540,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 50,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 200,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 90,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 400,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 130,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 270,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 170,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 380,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 210,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 290,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 900,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 580,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 10,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 20,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 400,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 540,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 50,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 280,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 90,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 270,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 130,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 270,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 170,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 390,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 210,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 290,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 900,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 580,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 10,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 20,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 400,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 540,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 50,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 200,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 90,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 270,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 130,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 270,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 170,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 290,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 210,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 290,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 900,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 580,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 10,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 20,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 400,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 540,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 50,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 200,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 90,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 270,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 130,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 270,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 170,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 320,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 210,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 290,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 900,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 580,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 10,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 20,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 400,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 540,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 50,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 200,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 90,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 270,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 130,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 270,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 170,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 380,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 210,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 290,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 900,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 580,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 10,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 20,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 400,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 540,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 50,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 200,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 90,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 270,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 130,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 270,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 170,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 350,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 210,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 290,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 900,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 580,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 10,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 20,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 400,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 540,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 50,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 240,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 90,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 270,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 130,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 270,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 170,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 350,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 430,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 210,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 290,83
+IIT-Library,sub_class,Teacher_info,teacher_info,Magic Number,The method contains a magic number: 100,83
+IIT-Library,sub_class,View,go,Magic Number,The method contains a magic number: 300,40
+IIT-Library,sub_class,View,go,Magic Number,The method contains a magic number: 50,40
+IIT-Library,sub_class,View,go,Magic Number,The method contains a magic number: 300,40
+IIT-Library,sub_class,View,go,Magic Number,The method contains a magic number: 50,40
+IIT-Library,sub_class,View,go,Magic Number,The method contains a magic number: 500,40
+IIT-Library,sub_class,View,go,Magic Number,The method contains a magic number: 400,40
+IIT-Library,sub_class,View,downloadFile,Magic Number,The method contains a magic number: 1024,85
+IIT-Library,sub_class,View,downloadFile,Magic Number,The method contains a magic number: 1024,85
+IIT-Library,sub_class,View,downloadFile,Magic Number,The method contains a magic number: 100,85
+IIT-Library,sub_class,Welcome_frame,setbutton,Magic Number,The method contains a magic number: 440,50
+IIT-Library,sub_class,Welcome_frame,setbutton,Magic Number,The method contains a magic number: 450,50
+IIT-Library,sub_class,Welcome_frame,setbutton,Magic Number,The method contains a magic number: 180,50
+IIT-Library,sub_class,Welcome_frame,setbutton,Magic Number,The method contains a magic number: 50,50
+IIT-Library,sub_class,Welcome_frame,setbutton,Magic Number,The method contains a magic number: 240,50
+IIT-Library,sub_class,Welcome_frame,setbutton,Magic Number,The method contains a magic number: 450,50
+IIT-Library,sub_class,Welcome_frame,setbutton,Magic Number,The method contains a magic number: 180,50
+IIT-Library,sub_class,Welcome_frame,setbutton,Magic Number,The method contains a magic number: 50,50
+IIT-Library,sub_class,Welcome_frame,setlabel,Magic Number,The method contains a magic number: 900,63
+IIT-Library,sub_class,Welcome_frame,setlabel,Magic Number,The method contains a magic number: 100,63
+IIT-Library,sub_class,Welcome_frame,setlabel,Magic Number,The method contains a magic number: 40,63
+IIT-Library,sub_class,Welcome_frame,setlabel,Magic Number,The method contains a magic number: 280,63
+IIT-Library,sub_class,Welcome_frame,setlabel,Magic Number,The method contains a magic number: 20,63
+IIT-Library,sub_class,Welcome_frame,setlabel,Magic Number,The method contains a magic number: 400,63
+IIT-Library,sub_class,Welcome_frame,setlabel,Magic Number,The method contains a magic number: 500,63
+IIT-Library,sub_class,Welcome_frame,actionlistener,Complex Method,Cyclomatic complexity of the method is 9,81
+IIT-Library,sub_class,Welcome_frame,SearchStudent,Empty catch clause,The method has an empty catch block.,145
